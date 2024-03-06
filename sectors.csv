@@ -1,0 +1,14 @@
+id,sector_name
+1,Total
+2,Unspecified
+3,Waste
+4,Other
+5,Buildings
+6,Transport
+7,Transportation
+8,Stationary energy (buildings)
+9,Residential buildings
+10,Commercial buildings
+11,Industrial buildings
+12,Public buildings
+13,Wastewater
