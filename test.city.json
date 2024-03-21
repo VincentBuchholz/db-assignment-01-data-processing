@@ -1,0 +1,96 @@
+[{
+  "_id": {
+    "$oid": "65e98f4cf74c1a837a0798ca"
+  },
+  "name": "New York",
+  "country": "United States",
+  "population": 8537673,
+  "coordinates": {
+    "latitude": 40.7128,
+    "longitude": -74.006
+  },
+  "attractions": [
+    {
+      "name": "Statue of Liberty",
+      "type": "Landmark",
+      "description": "Iconic symbol of freedom and democracy."
+    },
+    {
+      "name": "Central Park",
+      "type": "Park",
+      "description": "Urban park famous for its natural beauty and recreational activities."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e98f4cf74c1a837a0798cb"
+  },
+  "name": "London",
+  "country": "United Kingdom",
+  "population": 8982000,
+  "coordinates": {
+    "latitude": 51.5074,
+    "longitude": -0.1278
+  },
+  "attractions": [
+    {
+      "name": "Big Ben",
+      "type": "Landmark",
+      "description": "Iconic clock tower of the Houses of Parliament."
+    },
+    {
+      "name": "British Museum",
+      "type": "Museum",
+      "description": "World-renowned museum showcasing art and artifacts from around the world."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e98f4cf74c1a837a0798cc"
+  },
+  "name": "Tokyo",
+  "country": "Japan",
+  "population": 13929286,
+  "coordinates": {
+    "latitude": 35.6895,
+    "longitude": 139.6917
+  },
+  "attractions": [
+    {
+      "name": "Tokyo Tower",
+      "type": "Landmark",
+      "description": "Iconic communications and observation tower."
+    },
+    {
+      "name": "Shibuya Crossing",
+      "type": "Intersection",
+      "description": "Famous pedestrian scramble crossing in Shibuya district."
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "65e98f4cf74c1a837a0798cd"
+  },
+  "name": "Copenhagen",
+  "country": "Denmark",
+  "population": 794128,
+  "coordinates": {
+    "latitude": 55.6761,
+    "longitude": 12.5683
+  },
+  "attractions": [
+    {
+      "name": "Nyhavn",
+      "type": "Landmark",
+      "description": "Colorful waterfront district with historic buildings, bars, and restaurants."
+    },
+    {
+      "name": "Tivoli Gardens",
+      "type": "Amusement Park",
+      "description": "One of the world's oldest amusement parks, featuring rides, gardens, and entertainment."
+    }
+  ]
+}]
